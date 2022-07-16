@@ -1,0 +1,20 @@
+/* center column */
+.center-column{
+    display: flex;
+    align-items: center;
+}
+
+.center-column > .link{
+    width: 100px;
+    text-align: center;
+}
+
+.center-column > .link h4{
+    color: white;
+    text-decoration: none;
+    transition: 0.5s;
+}
+  
+.center-column > .link h4:hover{
+    letter-spacing: 0.75px;
+}

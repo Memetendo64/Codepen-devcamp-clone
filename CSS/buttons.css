@@ -1,0 +1,19 @@
+.buttn{border-radius: 5px;}
+
+.buttn2{
+    border-radius: 7px;
+    border: 1px solid rgb(5, 65, 5);
+    background-color: rgb(5, 65, 5);
+    margin-right: 10px;
+}
+
+.buttn3 {
+    border-radius: 7px;
+    border: 1px solid rgb(51, 48, 48);
+    background-color: rgb(51, 48, 48);
+}
+
+button{
+    background-color:#3d3c38;
+    color: white;
+}

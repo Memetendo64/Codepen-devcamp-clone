@@ -1,0 +1,17 @@
+.thick{
+    font-family: sans-serif, helvetica;
+    font-weight: 4000;
+}
+
+.bottom-bar{
+    display: flex;
+    align-items: center;
+    background-color:#252524;
+    color: white;
+    margin-bottom: 50px;
+}
+
+.bottom-bar > .piece{
+    width: 390px;
+    text-align: center;
+}

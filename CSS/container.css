@@ -1,0 +1,15 @@
+.image-container{
+    padding: 20px 0px 0px 20px;
+    display: flex;
+    align-items: center;
+}
+
+#grad1 {
+    background-color: #3d3c38; /* For browsers that do not support gradients */
+    background-image: linear-gradient(to bottom right, rgb(112, 102, 102), #3d3d3d);
+}
+
+.image-container > .text{
+    width: 700px;
+    text-align: center;
+}
